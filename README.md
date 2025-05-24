@@ -1,3 +1,8 @@
+COMPANY:CODTECH IT SOLUTIONS 
+NAME: RIDDHI GOYAL 
+INTERN ID: CT08WN04 
+DOMAIN: WEB DEVELOPMENT
+MENTOR: NEELA SANTOSH
 Real-Time Collaborative Text Editor
 
 EditX is a powerful, real-time collaborative rich text editor built with Next.js, Tiptap, and Liveblocks. It allows multiple users to edit the same document simultaneously, see each other's cursors, and collaborate more effectively — all in your browser.
